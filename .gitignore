@@ -5,3 +5,7 @@ __pycache__/
 .vscode/
 .venv/
 .DS_Store
+
+# Course materials (assignment statement and report template)
+CVI_lab_2.pdf
+template/
